@@ -3,7 +3,8 @@
 ![mixgen_sample](https://github.com/user-attachments/assets/e99f66ba-2dad-43e9-b028-e8418071eb42)
 
 ### Style Randomization Image Data Augmentation Algorithm
-
+#### Link: https://pan.baidu.com/s/11f6Lt5VIlrl3bV0KYOBj0w?pwd=iybi
+#### Access Code: iybi 
 **Brief Description:**  
 Developed a novel image data augmentation algorithm based on style transfer techniques, designed to enhance the robustness and adaptability of convolutional neural networks in complex environments.
 
